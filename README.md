@@ -83,3 +83,6 @@ class SketchBubble {
 }
 ```
 Link to p5.js code: https://editor.p5js.org/JessilynCollette/sketches/E9ZgshMrm
+
+## Sample Image
+![bubbles](https://github.com/user-attachments/assets/b81177f9-9302-407f-8f6b-be57dd1b19a6)
