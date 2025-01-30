@@ -12,7 +12,7 @@ My design is inspired not only by the look of bubbles but also the colors that t
 
 
 ## Code
-```
+```p5.js
 let bubbles = [];
 let numBubbles = 50; // Number of bubbles to draw
 
