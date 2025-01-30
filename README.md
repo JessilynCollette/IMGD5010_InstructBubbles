@@ -7,6 +7,10 @@
 1. Randomize placement of circes across canvas
 1. Randomize coloring of circles
 
+## Inspiration/Goal
+My design is inspired not only by the look of bubbles but also the colors that tend to reflect from them. My goal was to make a piece of art that looks like it is light, airy, and has movement even though it is static. 
+
+
 ## Code
 ```
 let bubbles = [];
