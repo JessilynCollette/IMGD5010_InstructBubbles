@@ -1,10 +1,10 @@
 # IMGD5010_InstructBubbles
 ## Instructions
-1. Create canvas to be full size of window.
+1. Create a canvas to be the full size of the window.
 1. Create multiple circles with slight offsets from each other to create a sketch like appearance.
-1. Create a small highlight circle placed in the top left of the larger circles
+1. Create a small highlight circle placed in the top left of the larger circles.
 1. Create an even smaller highlight circle to be placed on the top left edge of the larger highlight circle.
-1. Randomize the placement of the circles across the canvas.
+1. Add more circles and randomize the placement of the circles across the canvas.
 1. Randomize the coloring of the circles to switch between green, blue, and purple.
 
 ## Inspiration/Goal
